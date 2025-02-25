@@ -9,7 +9,7 @@ This is the final project for the Intelligent IoT Systems course taught by Profe
 ## Class Imbalance Problem
 
 
-train_partition0 class counts: Counter({0: 2535, 1: 352, 2: 280, 3: 4445, 4: 303, 5: 4086, 6: 4474, 7: 1554, 8: 1125, 9: 5000})
+train_partition0 class counts: Counter({0: 2535, 1: 352, 2: 280, 3: 4445, 4: 303, 5: 4086, 6: 4474, 7: 1554, 8: 1125, 9: 5000})
 
 train_partition1 class counts: Counter({0: 2465, 1: 4648, 2: 4720, 3: 555, 4: 4697, 5: 914, 6: 526, 7: 3446, 8: 3875, 9: 0})
 
