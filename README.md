@@ -15,7 +15,7 @@ train_partition1 class counts: Counter({0: 2465, 1: 4648, 2: 4720, 3: 555, 4: 46
 
 test_dataset class counts: Counter({3: 1000, 8: 1000, 0: 1000, 6: 1000, 1: 1000, 9: 1000, 5: 1000, 7: 1000, 4: 1000, 2: 1000})
 
--> We can check Class Imbalance Problem.
+-> We can check Class Imbalance Problem. We tried to use focal-loss or weightening on small amount data. But, it wasn't work.
 
 
 ## My Notion
