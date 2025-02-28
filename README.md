@@ -29,7 +29,7 @@ test_dataset class counts: Counter({3: 1000, 8: 1000, 0: 1000, 6: 1000, 1: 1000,
     <td><img src="./image/Results_in_competition.png" alt="Image 1" width="900px" /></td>
   </tr>
 </table>
-Our result is from Team 1 in Class A. The accuracy was the second highest, and the training time was significantly lower—about 14 minutes and 20 seconds less—than that of the top-ranked team. In terms of training time, it was also the second shortest. Although the model size is relatively large, its training and prediction times demonstrated a satisfactory performance.
+Our result is from Team 1 in Class A. The accuracy was the second highest, and the training time was significantly lower—about 14 minutes and 20 seconds less—than that of the top-ranked team. In terms of training time, it was also the second shortest. Although the model size is relatively large, its training and prediction times demonstrated a satisfactory performance. For FedAvg, there is a rule that everyone must use it identically, so we couldn't modify it.
 
 ## Our Pipeline
 <table>
@@ -48,5 +48,6 @@ We utilized the aforementioned model architecture and training with normal FedAV
 ---
 
 ## My Notion
+You can check more information at my notion page.
 
 https://rustic-flavor-e48.notion.site/Federated-Learning-using-CIFAR-10-14fe2f945c638064b96cde9255a904d2?pvs=4
