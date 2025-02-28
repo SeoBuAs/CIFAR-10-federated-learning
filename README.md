@@ -21,3 +21,7 @@ test_dataset class counts: Counter({3: 1000, 8: 1000, 0: 1000, 6: 1000, 1: 1000,
 ## My Notion
 
 https://rustic-flavor-e48.notion.site/Federated-Learning-using-CIFAR-10-14fe2f945c638064b96cde9255a904d2?pvs=4
+
+## Result of final project
+Our result is team 1.
+
