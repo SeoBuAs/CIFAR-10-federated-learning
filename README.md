@@ -27,8 +27,7 @@ Our result is team 1.
 
 <table>
   <tr>
-    <td><img src="./images/Private_Online.png" alt="Image 1" width="450px" /></td>
-    <td><img src="./images/Private_Offline.png" alt="Image 2" width="450px" /></td>
+    <td><img src="./image/Results_in_competition.png" alt="Image 1" width="900px" /></td>
   </tr>
 </table>
 
