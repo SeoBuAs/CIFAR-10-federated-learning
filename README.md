@@ -25,3 +25,10 @@ https://rustic-flavor-e48.notion.site/Federated-Learning-using-CIFAR-10-14fe2f94
 ## Result of final project
 Our result is team 1.
 
+<table>
+  <tr>
+    <td><img src="./images/Private_Online.png" alt="Image 1" width="450px" /></td>
+    <td><img src="./images/Private_Offline.png" alt="Image 2" width="450px" /></td>
+  </tr>
+</table>
+
