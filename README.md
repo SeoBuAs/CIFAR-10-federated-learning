@@ -1,6 +1,8 @@
 # Federated Learning using CIFAR-10
 Implementing federated learning on IoT devices using the CIFAR-10 dataset
 
+---
+
 ## Abstract
 This is the final project for the Intelligent IoT Systems course taught by Professor Woonghee Lee at Hansung University. Federated learning is emerging as a crucial technology among the numerous users who own IoT devices. It not only ensures personal information protection and data privacy but also serves as a key method for developing advanced AI models based on diverse user data. In this project, the objective is to develop a system that establishes a federated learning environment between a central server and IoT devices, enabling continuous updates and improvements of AI models without transmitting the data stored on individual devices to the central server.
 
@@ -30,6 +32,8 @@ test_dataset class counts: Counter({3: 1000, 8: 1000, 0: 1000, 6: 1000, 1: 1000,
   </tr>
 </table>
 Our result is from Team 1 in Class A. The accuracy was the second highest, and the training time was significantly lower—about 14 minutes and 20 seconds less—than that of the top-ranked team. In terms of training time, it was also the second shortest. Although the model size is relatively large, its training and prediction times demonstrated a satisfactory performance. For FedAvg, there is a rule that everyone must use it identically, so we couldn't modify it.
+
+---
 
 ## Our Pipeline
 <table>
