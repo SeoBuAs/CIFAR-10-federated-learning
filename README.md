@@ -21,10 +21,7 @@ test_dataset class counts: Counter({3: 1000, 8: 1000, 0: 1000, 6: 1000, 1: 1000,
 
 -> We can check Class Imbalance Problem. We tried to use focal-loss or weightening on small amount data. But, it wasn't work.
 
-
-## My Notion
-
-https://rustic-flavor-e48.notion.site/Federated-Learning-using-CIFAR-10-14fe2f945c638064b96cde9255a904d2?pvs=4
+---
 
 ## Result of final project
 <table>
@@ -34,3 +31,22 @@ https://rustic-flavor-e48.notion.site/Federated-Learning-using-CIFAR-10-14fe2f94
 </table>
 Our result is from Team 1 in Class A. The accuracy was the second highest, and the training time was significantly lower—about 14 minutes and 20 seconds less—than that of the top-ranked team. In terms of training time, it was also the second shortest. Although the model size is relatively large, its training and prediction times demonstrated a satisfactory performance.
 
+## Our Pipeline
+<table>
+  <tr>
+    <td><img src="./image/Model_pipeline.png" alt="Image 1" width="900px" /></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="./image/FedAVG_pipeline.png" alt="Image 1" width="900px" /></td>
+  </tr>
+</table>
+
+We utilized the aforementioned model architecture and training with normal FedAVG. We aimed to achieve better performance by richly extracting local features using a CNN architecture and then employing a ViT to capture global relationships from those features. The results were pretty good.
+
+---
+
+## My Notion
+
+https://rustic-flavor-e48.notion.site/Federated-Learning-using-CIFAR-10-14fe2f945c638064b96cde9255a904d2?pvs=4
